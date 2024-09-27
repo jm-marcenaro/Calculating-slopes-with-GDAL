@@ -1,0 +1,1 @@
+Exploring the capabilities of GDAL tools alongside Python to automate the process and calculate the mean slope of multiple basins from a Digital Elevation Model (DEM).
